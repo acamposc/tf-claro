@@ -1,0 +1,6 @@
+google-cloud-storage==1.35.1
+pandas==1.2.1
+openpyxl==3.0.6
+xlrd==2.0.1
+toolz==0.11.1
+fsspec>=0.3.3
